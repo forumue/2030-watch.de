@@ -23,9 +23,9 @@
           title: 'Welche Indikatoren werden dargestellt?',
           id: 'methode-indikatoren',
           body: `
-Die offiziellen Indikatoren wurden ausschließlich von der Deutschen Nachhaltigkeitsstrategie übernommen. Die Deutsche Nachhaltigkeitsstrategie beurteilt die Veränderunge einer Indikatorentwicklung  mit Wetterzeichen: Sonne (nahezu erreicht), Wolke/Sonne (richtige Richtung), Wolke (Lücken), Donner (falsche Richtung) und zeigt so den Trend, ob sich der Indikator dem Zielwert nähert oder nicht. Wir von 2030Watch haben die Indikatoren in ein eigenes Bewertungssystem übersetzt, welches versucht, darzustellen, wie nah ein Indikator dem Ziel für das Jahr 2030 ist.
+Als Vergleichsgröße haben wir die Indikatoren der Deutschen Nachhaltigkeitsstrategie herangezogen (Stand: 2018). Die Deutsche Nachhaltigkeitsstrategie stellt die Veränderungen einer Indikatorentwicklung mit Wettersymbolen dar: Sonne (Ziel nahezu erreicht), Wolke/Sonne (es geht in die richtige Richtung), Wolke (es gibt Lücken), Donner (die Entwicklungen gehen in die falsche Richtung) und zeigt so, ob sich der Indikator dem Zielwert nähert oder nicht. 2030Watch hat die Indikatoren in ein eigenes Bewertungssystem übersetzt, welches versucht, darzustellen, wie nah ein Indikator dem Ziel für das Jahr 2030 ist. Dieses Bewertungssystem wird laufend weiterentwickelt.
 
-Auf 2030-watch.de werden hierzu weitere Indikatoren hinzugezogen, die größtenteils aus der von der Zivilgesellschaft (NGOs) als Fortschrittsmaßstäbe von Nachhaltigkeit vorgeschlagen werden.`
+Auf 2030-watch.de werden außerdem weitere Indikatoren dargestellt, die größtenteils von zivilgesellschaftlichen Organisationen (NGOs) als Fortschrittsmaßstäbe  vorgeschlagen werden. Dabei beruhen die Daten größtenteils auch auf offiziellen Erhebungen, bspw. des Statistischen Bundesamts, von Eurostat, der OECD usw.`
         },
         {
           title: 'Wie hat 2030Watch Indikatoren ausgewählt?',
@@ -33,7 +33,7 @@ Auf 2030-watch.de werden hierzu weitere Indikatoren hinzugezogen, die größtent
           body: `
 Die ergänzenden Indikatoren hat 2030Watch geprüft und nach eigener Bewertung ausgewählt. Die Auswahl beruht auf unserer Recherche, Indikatorvorschlägen nichtstaatlicher Akteure und auf Gesprächen mit Expert&ast;innen aus Zivilgesellschaft und Forschung.
 
-Unsere Auswahlkriterien sind:
+Unsere Auswahlkriterien waren:
 1. Das SDG Unterziel ist für Deutschland relevant.
 2. Deutschland hat aus offizieller Sicht zu diesem Unterziel Handlungsbedarf. Handlungsbedarf besteht, wenn eines der folgenden Kriterien erfüllt ist:
 a. Es gibt einen offiziellen IAEG-SDG (Inter-Agency and Expert Group on Sustainable Development Goal) oder EU2020 Indikator, bei dem Deutschland mehr als 20% vom Zielwert entfernt ist.
@@ -54,11 +54,11 @@ d. Menschen mit Behinderungen
           body: `
 Indikatoren wurden in folgende Kategorien eingeteilt:
 
-++Neuer Indikator:++ Dieser Indikator legt ein neues Thema vor, das noch nicht in der Deutschen Nachhaltigkeitsstrategie beinhaltet ist.
+Neuer Indikator: Dieser Indikator legt ein neues Thema vor, das noch nicht in der Deutschen Nachhaltigkeitsstrategie enthalten ist.
 
-++Modifizierter Zielwert:++ Dieser Zielwert ist unzureichend und 2030Watch schlägt einen neuen Zielwert vor.
+Modifizierter Zielwert: Dieser Zielwert ist unzureichend und 2030Watch schlägt einen neuen Zielwert vor.
 
-++Nicht berechenbar:++ Für diesen Indikator kann man auf Grund fehlender Daten und Angaben der Ziel- oder Ausgangswert nicht berechnet werden.`
+Nicht berechenbar: Für diesen Indikator kann man auf Grund fehlender Daten und Angaben der Ziel- oder Ausgangswert nicht berechnet werden.`
         },
         {
           title: 'Wie misst 2030Watch den Fortschritt eines Indikators?',
@@ -71,12 +71,12 @@ Wir berechnen für jeden Indikator, wie weit er vom jeweiligen Zielwert entfernt
 So wird eine Vergleichbarkeit der Fortschritte zwischen den einzelnen Indikatoren hergestellt.`
         },
         {
-          title: 'Wie misst 2030Watch den Fortschritt zur Erreichung von einem Nachhaltigkeitsziel?',
+          title: 'Wie misst 2030Watch den Fortschritt zur Erreichung eines Nachhaltigkeitsziels?',
           id: 'methode-fortschritt-nachhaltigkeit',
           body: `
 Der Fortschritt bezieht sich auf das definierte Ziel für das Jahr 2030. Der offizielle Fortschritt wird mit einem Mittelwert von allen offiziellen Indikatorenwerten pro jeweiligem SDG berechnet. Der Fortschritt auf der Seite von 2030Watch wird über den Mittelwert der jeweiligen erweiterten Indikatorenliste berechnet: also alle berechenbaren offiziellen Indikatoren plus neue 2030Watch Indikatoren (um Dopplungen zu vermeiden, werden Indikatoren mit modifizierten Zielwert nur einmal berechnet).
 
-Wichtig zu betonen, ist, dass wir nicht behaupten, diese Fortschrittsberechnung sei eine objektive Darstellung. Die Berechnungen sollen dazu dienen, einen Vergleich zwischen Nachhaltigkeitsbildern zu ermöglichen und stellen einen Debattenbeitrag dar.`
+Wichtig ist zu betonen, dass wir nicht behaupten, diese Fortschrittsberechnung sei eine objektive Darstellung. Die Berechnungen sollen dazu dienen, einen Vergleich zwischen Nachhaltigkeitsbildern zu ermöglichen und stellen einen Debattenbeitrag dar.`
         },
         {
           title: 'Wie werden Ausgangswerte berechnet?',
@@ -88,23 +88,17 @@ Wir lehnen unsere Auswahl an gängige Vorgehen an, wie zum Beispiel das von <a h
           title: 'Wie werden Zielwerte berechnet?',
           id: 'methode-zielwerte',
           body: `
-Bei der Verwendung der Indikatoren der Deutschen Nachhaltigkeitsstrategie übernehmen wir die offiziellen Zielwerte.
+Bei der Verwendung der Indikatoren der Deutschen Nachhaltigkeitsstrategie übernehmen wir die offiziellen Zielwerte (Stand 2018).
 
-Für die ergänzenden Indikatoren wird der Zielwert von uns ausgewählt - beruhend auf internationalen Abkommen, Fachliteratur oder Expertengesprächen.
+Für die ergänzenden Indikatoren wird der Zielwert von uns ausgewählt, beruhend auf internationalen Abkommen, Fachliteratur oder Expertengesprächen.
 
 In den Fällen, in denen wir keinen Zielwert haben, nehmen wir den Durchschnitt der "5 Top Performer", sprich die fünf besten Werte der vorhandenen Länderreihe.`
-        },
-        {
-          title: 'Woher kommen die aktuellen Werte?',
-          id: 'methode-aktuellen-werte',
-          body: `
-Wir nehmen die aktuellsten verfügbaren Werte. Das bedeutet für die Werte der Deutschen Nachhaltigkeitsstrategie, dass wir in einigen Fällen aktuellere Werte als die offiziellen haben, wenn zum Beispiel die OECD-Werte aktueller sind.`
         },
         {
           title: 'Welche Länder werden zum Vergleich herangezogen?',
           id: 'methode-laendervergleich',
           body: `
-Wir nehmen wenn möglich Daten der EU28 oder OECD mit Präferenz für den Datensatz mit den aktuellsten Werten.`
+Wir vergleichen die deutschen Werte wenn möglich mit Daten der EU- oder OECD-Mitglieder mit Präferenz für Daten mit den aktuellsten Werten.`
         }
         ]
       }
