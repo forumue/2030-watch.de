@@ -14,14 +14,16 @@
           <div class="section-wrapper">
             <div class="section-text">
               <p>
-                2030Watch zeigt eine ergänzende Sichtweise, wie gut Deutschland die globalen Nachhaltigkeitsziele umsetzt. Ist Deutschland auf dem Weg einer Transformation, wie in der Agenda 2030 vorgesehen? 2030Watch untersucht diese Frage anhand von Indikatoren: Wie wird die Umsetzung zu einer Nachhaltigen Entwicklung in Deutschland gemessen? Was wird übersehen? Wie stellen wir sicher, dass das Prinzip "Leave No One Behind" (Lass niemanden zurück) nicht außer Acht gelassen wird? Dazu vergleicht 2030Watch die offiziellen Indikatoren der deutschen Nachhaltigkeitsstrategien mit zusätzlichen Indikatoren.
+                2030Watch zeigt, wie gut Deutschland die global verabschiedeten Nachhaltigkeitsziele umsetzt. Ist Deutschland auf dem Weg einer Transformation, wie in der Agenda 2030 vorgesehen? 2030Watch untersucht diese Frage anhand von Indikatoren: Wie wird die Umsetzung zu einer nachhaltigen Entwicklung in Deutschland gemessen? Was wird übersehen? Dazu vergleicht 2030Watch die offiziellen Indikatoren der Deutschen Nachhaltigkeitsstrategien mit zusätzlichen Indikatoren.
               </p>
               <p>
-                2030Watch wird hauptsächlich durch das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) im Rahmen des von Engagement Global verwalteten Förderprogramms für Entwicklungspolitische Bildung (FEB) sowie von Brot für die Welt (BfdW) und der Landesstelle für Entwicklungszusammenarbeit (LEZ) gefördert. Das vorgesehene Projektbudget für 2017-2018 beträgt ca. 214 000 Euro: 75% des Budgets werden vom FEB Programm des BMZ getragen, 23% von Brot für die Welt/EED und 2% LEZ Berlin.
+                2030Watch wird aktuell gefördert durch Brot für die Welt. Die von der Open Knowledge Foundation geleistete Aufbauarbeit wurde hauptsächlich finanziert durch das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) im Rahmen des von Engagement Global verwalteten Förderprogramms für Entwicklungspolitische Bildung (FEB) sowie von Brot für die Welt (BfdW) und der Landesstelle für Entwicklungszusammenarbeit (LEZ).
               </p>
             </div>
             <div class="section-img">
-              <img src="../assets/img/2030watch_logo.png" alt="2030Watch Logo" class="img-logos">
+              <a href="https://www.2030-watch.de/" target="_blank">
+                <img src="../assets/img/2030watch_logo.png" alt="2030Watch Logo" class="img-logos">
+              </a>
             </div>
           </div>
         </div>
@@ -30,24 +32,26 @@
 
       <section>
         <div class="wrapper">
-          <h2>Open Knowledge Foundation Deutschland</h2>
-          <div class="section-wrapper">
+          <h2>Forum Umwelt und Entwicklung</h2>
+          <div class="section-wrapper" style="padding-top: unset;">
             <div class="section-text">
               <p>
-                Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein, der sich für die Verbreitung von freiem Wissen in der Gesellschaft einsetzt. Unsere Projekte schaffen die digitale Infrastruktur für zivilgesellschaftliches Handeln und unterstützen Bürger, Journalisten und Organisationen dabei, ihr Recht auf Information, Transparenz und Beteiligung wahrzunehmen.
+                Das Forum Umwelt &amp; Entwicklung wurde 1992 nach der UN-Konferenz für Umwelt und Entwicklung gegründet und koordiniert die Aktivitäten deutscher Nichtregierungsorganisationen in internationalen Politikprozessen zu nachhaltiger Entwicklung. Das Forum Umwelt und Entwicklung unterhält Kontakte zu Organisationen aus Entwicklungsländern und stimmt sich mit internationalen Verbänden für gemeinsame Aktionen ab. Es begleitet auf UN-Ebene die nach Rio weiterlaufenden internationalen Arbeiten zu Umwelt und Entwicklung.
               </p>
               <p>
-                Unsere Arbeit erstreckt sich auf die Bereiche Politik und Informationsfreiheit, Civic Tech, Forschung, kulturelle Bildung und Jugendförderung. Wir sind Teil eines internationalen Netzwerkes von Experten und Freiwilligen in 58 Ländern.
+                Eine der Hauptaufgaben des Forum ist es, der deutschen Öffentlichkeit den Zusammenhang zwischen Umwelt und Entwicklung zu verdeutlichen. Das geht einher mit der Bemühung für eine Änderung der verschwenderischen Wirtschafts- und Lebensweise in den industrialisierten Ländern einzutreten. Diese zerstören die natürlichen Lebensgrundlagen und berauben Millionen Menschen, insbesondere in den Ländern des Südens, ihrer Lebenschancen.
               </p>
               <p>
-                Die Arbeit der OKF wird fast ausschließlich durch Einzelprojekte finanziert. Geldgeber sind die EU, staatliche Geber auf nationaler und kommunaler Ebene, Stiftungen, Nichtregierungsorganisationen sowie private Spender.
+                Die Arbeit des Forum Umwelt und Entwicklung wird definiert von einem Leitungskreis, der sich aus Vertretern und Vertreterinnen von Umwelt- und Entwicklungsorganisationen zusammensetzt. Der Leitungskreis trägt die politische Verantwortung für die Leitung des Forums. Die Geschäftsstelle ist Sprachrohr und Koordinationsinstrument des Forums Umwelt und Entwicklung und Umschlagplatz gemeinsam erarbeiteter Positionen der Mitgliedsorganisationen. Die Mitgliedsorgansationen sowie die beteiligten Organisationen arbeiten in verschiedenen thematischen AGs zusammen.
               </p>
               <p>
-                Mehr Infos hier: <a href="https://okfn.de" target="_blank">okfn.de</a>
+                Mehr Infos hier: <a href="https://www.forumue.de/" target="_blank">forumue.de</a>
               </p>
             </div>
             <div class="section-img">
-              <img src="../assets/img/okf_logo.png" alt="OKFN Logo" class="img-logos">
+              <a href="https://www.forumue.de/" target="_blank">
+                <img src="../assets/img/fue_logo.png" alt="Forum Umwelt und Entwicklung Logo" class="img-logos">
+              </a>
             </div>
           </div>
         </div>
@@ -56,43 +60,21 @@
       <section>
         <div class="wrapper">
           <h2>Gefördert von</h2>
+          <p>2030Watch wird gefördert von Brot für die Welt</p>
           <div class="section-wrapper section-wrapper-sponsors">
-            <div class="section-img">
-              <img src="../assets/img/sponsors/EG_LOGO_RGB.jpg"
-                alt="Logo von Engagement Global"
-                width="250px"
-                class="EG-logo"
-              >
-              <p class="section-description EG-description">
-                im Auftrag des
-              </p>
-              <img src="../assets/img/sponsors/BMZ.png"
-                alt="Logo des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung"
-                width="300px"
-              >
-              <p class="section-description">
-                Für den Inhalt dieser Publikation ist allein Open Knowledge Foundation Deutschland e.V.
-                verantwortlich. Die hier dargestellten Positionen geben nicht den Standpunkt von Engagement
-                Global gGmbH und dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung wieder.
-              </p>
-            </div>
-            <div class="section-img mobile-logos">
-              <img src="../assets/img/sponsors/BrotfuerdieWelt.svg"
-                alt="Logo von Brot für die Welt"
-                width="150px"
-              >
-            </div>
-            <div class="section-img mobile-logos">
-              <img src="../assets/img/sponsors/LEZ.png"
-                alt="Logo der Landesstelle für Entwicklungszusammenarbeit"
-                width="250px"
-              >
+            <div class="section-img mobile-logos" style="text-align: left;">
+              <a href="https://www.brot-fuer-die-welt.de/" target="_blank">
+                <img src="../assets/img/Logo_Brot_fuer_die_Welt.png"
+                  alt="Logo von Brot für die Welt"
+                  width="150px"
+                >
+              </a>
             </div>
           </div>
         </div>
       </section>
 
-      <section>
+      <!-- <section>
         <div class="wrapper">
           <h2>Finanzberichte</h2>
           <div class="section-wrapper section-wrapper-financial-report">
@@ -103,7 +85,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
     </div>
   </div>
@@ -193,6 +175,7 @@
 
   .section-wrapper-sponsors {
     align-items: start;
+    margin-top: 1em;
   }
 
   .EG-logo {
