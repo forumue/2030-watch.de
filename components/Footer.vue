@@ -13,7 +13,7 @@
           <ul class="social-icons">
             <li><a href="mailto:2030watch@forumue.de"><i class="icon-mail" /></a></li>
             <li><a href="https://twitter.com/2030watchde" target="_blank"><i class="icon-twitter" /></a></li>
-            <li><a href="https://github.com/forumue/2030watch" target="_blank"><i class="icon-github-circled" /></a></li>
+            <li><a href="https://github.com/forumue/2030-watch.de" target="_blank"><i class="icon-github-circled" /></a></li>
           </ul>
         </li>
       </ul>
