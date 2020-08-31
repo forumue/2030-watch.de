@@ -1,12 +1,7 @@
 <template>
   <div>
   <div class="blog-post">
-      <div class="post-img">
-        <nuxt-link to="">
-          <img class="preview-image" src="~/assets/img/BUB_Logo_RGB.jpg" alt="Blogpost Vorschaubild">
-        </nuxt-link>
-      </div>
-      <div class="post-teaser">
+    <div class="post-teaser">
         <span class="caption">20. November 2018</span>
         <div class="blog-post-title">
           <nuxt-link to="/blog/2018/11/20/bits-baeume-rueckblick">
@@ -19,6 +14,13 @@ Die Konferenz “Bits&Bäume” in der TU Berlin ist am letzten Wochenende (17.1
           <nuxt-link to="/blog/2018/11/20/bits-baeume-rueckblick"><span>Mehr lesen …</span></nuxt-link>
         </div>
       </div>
+
+      <div class="post-img">
+        <nuxt-link to="">
+          <img class="preview-image" src="~/assets/img/BUB_Logo_RGB.jpg" alt="Blogpost Vorschaubild">
+        </nuxt-link>
+      </div>
+     
     </div>
   
   
