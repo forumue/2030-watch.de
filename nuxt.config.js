@@ -26,7 +26,7 @@ module.exports = {
     }
   },
   modules: [
-    ['@nuxtjs/sitemap', { path: '/sitemap.xml', generate: true, hostname: 'https://www.2030-watch.de', routes: routes }]
+    ['@nuxtjs/sitemap', { path: '/sitemap.xml', generate: true, hostname: 'https://www.2030watch.de', routes: routes }]
   ],
   // Page headers
   head: {
