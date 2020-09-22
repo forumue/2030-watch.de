@@ -24,9 +24,9 @@ npm run dev
 ```
 
 
-## Automatic deployment
+## (Automatic) deployment
 
-After pushing/merging your feature branch into the master branch Travis CI builds the static files and deploys them to GitHub Pages. For this Travis executes the followings steps:
+After pushing/merging your feature branch into the master branch GitHub Actions build the static files and deploys them to the gh-pages branch. Changes there are captured and deployed by Netlify.  
 
 ``` bash
 # Load and assemble the current data
@@ -38,16 +38,3 @@ mv indiNav.json sdgs.json indicators.json ./data/
 # Generate the static files
 npm run generate:gh-pages
 ```
-
-
-## Manual deployment (not done anymore)
-
-### Generate the dist folder for publishing with GitHub Pages
-
-``` bash
-
-npm run generate:gh-pages
-
-```
-
-### Move and push the generated files and folders to the gh-pages branch
