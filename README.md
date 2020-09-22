@@ -26,7 +26,7 @@ npm run dev
 
 ## (Automatic) deployment
 
-After pushing/merging your feature branch into the master branch GitHub Actions build the static files and deploys them to the gh-pages branch. Changes there are captured and deployed by Netlify.  
+After pushing/merging your feature branch into the master branch GitHub Actions build the static files and deploy them to the gh-pages branch. Changes there are captured and deployed by Netlify.  
 
 ``` bash
 # Load and assemble the current data
