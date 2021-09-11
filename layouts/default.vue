@@ -12,7 +12,14 @@
       </nav>
     </header>
     <div class="page-content">
-      <center>Das Projekt 2030Watch ist seit Januar 2018 beendet. Die Webseite wird aktuell nicht weiter geupdatet und befindet sich in der Überarbeitung. Der entwickelte Code bleibt selbstverständlich verfügbar.</center>
+      <center class="page-info">
+        Das Modellprojekt 2030Watch ist ein zivilgesellschaftliches SDG-Monitoringkonzept, welches den realen 
+        Umsetzungsstand der SDGs in Deutschland beleuchtet. Hierfür stellt es die Daten des offiziellen SDG-Monitoring 
+        Deutschlands, eigenen, teils zivilgesellschaftlich entwickelten und erhobenen Daten und Indikatoren gegenüber. 
+        Die Gegenüberstellung der Ergebnisse zeigt, wie unterschiedlich der Umsetzungsstand der SDGs, je nach Auswahl 
+        von Daten und Indikatoren, bewertet werden kann. Das Modellprojekt ist seit 2018 beendet, weshalb die Daten auf 
+        dieser Seite nicht weiter aktualisiert werden.
+      </center>
       <nuxt/>
     </div>
     <Explainer />
@@ -49,5 +56,12 @@
 <style lang="scss" scoped>
   .page-nav > ul{
     padding: 0;
+  }
+  .page-info {
+    margin: 0 auto 0;
+    width: 80vw;
+    font-size: 22px;
+    padding: 20px 0;
+    font-weight: bold;
   }
 </style>
