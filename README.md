@@ -10,7 +10,7 @@
 ### Build
 
 ``` bash
-nvm use 8
+nvm use 14
 
 # Install dependencies
 npm install
