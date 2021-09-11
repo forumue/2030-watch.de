@@ -120,9 +120,11 @@
 
 //! moment.js locale configuration
 
+//! moment.js locale configuration
+
 //! moment.js
 
-//! version : 2.27.0
+//! version : 2.29.1
 
 //! authors : Tim Wood, Iskren Chernev, Moment.js contributors
 
@@ -138,7 +140,9 @@
 
 //! moment.js locale configuration
 
-//! moment.js language configuration
+//! moment.js locale configuration
+
+//! moment.js locale configuration
 
 //! moment.js locale configuration
 
@@ -207,9 +211,9 @@
 //! moment.js locale configuration
 
 /*!
- * Chart.js v2.9.3
+ * Chart.js v2.9.4
  * https://www.chartjs.org
- * (c) 2019 Chart.js Contributors
+ * (c) 2020 Chart.js Contributors
  * Released under the MIT License
  */
 
