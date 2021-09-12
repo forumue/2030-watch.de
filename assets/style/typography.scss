@@ -121,10 +121,12 @@ table {
 
 .page-header {
   .logo {
-    font-size: 2rem;
-    line-height: 1.2;
+    font-size: 1.8rem;
+    line-height: 1.1;
     text-transform: uppercase;
     letter-spacing: 0.08em;
+    font-weight: 500;
+    max-width: 300px;
   }
 
   .page-nav {

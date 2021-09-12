@@ -21,6 +21,12 @@
   width: 90vw;
 }
 
+@media screen and (max-width: $on-palm) {
+  .page-header {
+    flex-direction: column;
+  }
+}
+
 @include media-query($on-palm) {
   .page-header, .wrapper, .page-footer {
     width: 80vw;
@@ -47,7 +53,7 @@
 
 .page-header {
   min-height: 100px;
-  height: 12vh; /* size is based on the height of the device */
+  // height: 12vh; /* size is based on the height of the device */
   align-items: center;
 }
 

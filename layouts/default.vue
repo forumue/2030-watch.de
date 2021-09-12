@@ -1,7 +1,11 @@
 <template>
   <div :class="{ 'page': true, [klasse]: klasse }">
     <header class="page-header columns">
-      <strong class="logo"><nuxt-link to="/"><img src="../assets/img/2030watch_logo_white.png" alt="2030Watch Logo"></nuxt-link></strong>
+      <div class="logo">
+        <nuxt-link to="/">
+          <img src="../assets/img/2030watch_logo_white.png" alt="2030Watch Logo"> <span>Modellprojekt</span>
+        </nuxt-link>
+      </div>
       <nav class="page-nav">
         <ul>
           <li><nuxt-link to="/projekt">Das Projekt</nuxt-link></li>
@@ -63,5 +67,6 @@
     font-size: 22px;
     padding: 20px 0;
     font-weight: bold;
+    text-align: left;
   }
 </style>
