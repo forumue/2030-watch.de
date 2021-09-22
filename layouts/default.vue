@@ -24,11 +24,11 @@
         von Daten und Indikatoren, bewertet werden kann. Das Modellprojekt ist seit 2018 beendet, weshalb die Daten auf 
         dieser Seite nicht weiter aktualisiert werden.
       </div>
-      <!-- <div class="button-wrapper">
+      <div class="button-wrapper">
         <a class="btn btn-download" href="http://2030watch.de" target="_blank" title="2030watch.de">
           Zur Hauptseite
         </a>
-      </div> -->
+      </div>
       <nuxt/>
     </div>
     <Explainer />
