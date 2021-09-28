@@ -1,6 +1,6 @@
 # 2030-watch.de -> now deployed under 2030watch-modellprojekt.de
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aa0260cd-91c0-4f16-bd85-11373bdeeb2b/deploy-status)](https://app.netlify.com/sites/2030-watch/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aa0260cd-91c0-4f16-bd85-11373bdeeb2b/deploy-status)](https://app.netlify.com/sites/2030watch-modellprojekt/deploys)
 
 ## Setup
 
