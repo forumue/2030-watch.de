@@ -53,7 +53,7 @@ Die Konferenz “Bits&Bäume” in der TU Berlin ist am letzten Wochenende (17.1
           </nuxt-link>
         </div>
         <div>
-          Ab sofort ist unsere Projektseite zur nationalen Umsetzung der globalen Nachhaltigkeitsziele in Deutschland mit allen 17 Zielen und ihren Indikatoren komplett. Auf 2030-watch.de könnt ihr mehr über die Fortschritte der offiziellen Ziele und ihre jeweiligen Indikatoren lernen. Zudem bieten wir zahlreiche ergänzende Indikatoren zur Erweiterung des Nachhaltigkeitsbildes in Deutschland. So könnt ihr einen Perspektivwechsel erleben und der Frage nachgehen: Wie ambitioniert ist die Nachhaltigkeitsdebatte in Deutschland? <nuxt-link to="/blog/2018/08/31/wir-muessen-reden"><span>Mehr lesen …</span></nuxt-link>
+          Ab sofort ist unsere Projektseite zur nationalen Umsetzung der globalen Nachhaltigkeitsziele in Deutschland mit allen 17 Zielen und ihren Indikatoren komplett. Auf 2030watch-modellprojekt.de könnt ihr mehr über die Fortschritte der offiziellen Ziele und ihre jeweiligen Indikatoren lernen. Zudem bieten wir zahlreiche ergänzende Indikatoren zur Erweiterung des Nachhaltigkeitsbildes in Deutschland. So könnt ihr einen Perspektivwechsel erleben und der Frage nachgehen: Wie ambitioniert ist die Nachhaltigkeitsdebatte in Deutschland? <nuxt-link to="/blog/2018/08/31/wir-muessen-reden"><span>Mehr lesen …</span></nuxt-link>
         </div>
       </div>
       <div class="post-img">

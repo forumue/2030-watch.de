@@ -25,7 +25,7 @@
           body: `
 Als Vergleichsgröße haben wir die Indikatoren der Deutschen Nachhaltigkeitsstrategie herangezogen (Stand: 2018). Die Deutsche Nachhaltigkeitsstrategie stellt die Veränderungen einer Indikatorentwicklung mit Wettersymbolen dar: Sonne (Ziel nahezu erreicht), Wolke/Sonne (es geht in die richtige Richtung), Wolke (es gibt Lücken), Donner (die Entwicklungen gehen in die falsche Richtung) und zeigt so, ob sich der Indikator dem Zielwert nähert oder nicht. 2030Watch hat die Indikatoren in ein eigenes Bewertungssystem übersetzt, welches versucht, darzustellen, wie nah ein Indikator dem Ziel für das Jahr 2030 ist. Dieses Bewertungssystem wird laufend weiterentwickelt.
 
-Auf 2030-watch.de werden außerdem weitere Indikatoren dargestellt, die größtenteils von zivilgesellschaftlichen Organisationen (NGOs) als Fortschrittsmaßstäbe  vorgeschlagen werden. Dabei beruhen die Daten größtenteils auch auf offiziellen Erhebungen, bspw. des Statistischen Bundesamts, von Eurostat, der OECD usw.`
+Auf 2030watch-modellprojekt.de werden außerdem weitere Indikatoren dargestellt, die größtenteils von zivilgesellschaftlichen Organisationen (NGOs) als Fortschrittsmaßstäbe  vorgeschlagen werden. Dabei beruhen die Daten größtenteils auch auf offiziellen Erhebungen, bspw. des Statistischen Bundesamts, von Eurostat, der OECD usw.`
         },
         {
           title: 'Wie hat 2030Watch Indikatoren ausgewählt?',

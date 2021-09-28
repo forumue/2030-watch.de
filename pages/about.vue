@@ -21,7 +21,7 @@
               </p>
             </div>
             <div class="section-img">
-              <a href="https://www.2030-watch.de/" target="_blank">
+              <a href="https://2030watch-modellprojekt.de/" target="_blank">
                 <img src="../assets/img/2030watch_logo.png" alt="2030Watch Logo" class="img-logos">
               </a>
             </div>
