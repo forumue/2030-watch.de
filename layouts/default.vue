@@ -22,7 +22,11 @@
         Deutschlands, eigenen, teils zivilgesellschaftlich entwickelten und erhobenen Daten und Indikatoren gegenüber. 
         Die Gegenüberstellung der Ergebnisse zeigt, wie unterschiedlich der Umsetzungsstand der SDGs, je nach Auswahl 
         von Daten und Indikatoren, bewertet werden kann. Das Modellprojekt ist seit 2018 beendet, weshalb die Daten auf 
-        dieser Seite nicht weiter aktualisiert werden.
+        dieser Seite nicht weiter aktualisiert werden. Die aktualisierte Version ist 
+        <a title="Fortschritt der SDGs – Zivilgesellschaftliches Monitoring" target="_blank" href="https://www.2030watch.de/zivilgesellschaftliches-monitoring">
+          hier
+        </a> 
+        zu finden.
       </div>
       <div class="button-wrapper">
         <a class="btn btn-download" href="http://2030watch.de" target="_blank" title="2030watch.de">
